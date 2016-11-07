@@ -1,0 +1,10 @@
+var sunshine = true;
+var age = 40;
+var surname = "Mgqatsa";
+console.log(sunshine);
+console.log(age);
+console.log(surname);
+ var date = new Date ();
+ var fruit = ('banana, apple');
+ console.log (date);
+ console.log(fruit);
